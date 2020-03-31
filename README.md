@@ -1,5 +1,5 @@
 
-#编译 **speex** 和 **ogg** 的 `shell` 脚本
+# 编译 **speex** 和 **ogg** 的 `shell` 脚本
 
 可以编译成 iOS 和 OS X 两个平台
 
