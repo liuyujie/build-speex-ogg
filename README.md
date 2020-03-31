@@ -7,7 +7,7 @@
 
 
 ## 注意点
-speex 是依赖于 ogg 的 编译 speex 之前请先下载好 ogg。
+speex 是依赖于 ogg; 请编译 speex 之前先下载好 ogg。
 
 
 ## 编译
