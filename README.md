@@ -23,7 +23,9 @@ speex 是依赖于 ogg 的 编译 speex 之前请先下载好 ogg。
 
 ```
 
-## 相关资源连接
+### 相关资源连接
+
+[https://github.com/ElfSundae/build-speex-ogg](https://github.com/ElfSundae/build-speex-ogg)
 
 [ogg官网: http://www.xiph.org/ogg/](http://www.xiph.org/ogg/)
 
