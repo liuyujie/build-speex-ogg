@@ -17,7 +17,7 @@ speex 是依赖于 ogg; 请编译 speex 之前先下载好 ogg。
 执行如下脚本：
 
 ```sh
-./build_speex.sh
+./build_ogg.sh
 
 ./build_speex.sh
 
